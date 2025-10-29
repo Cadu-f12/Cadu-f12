@@ -1,9 +1,12 @@
 name: Generate Snake
 
 on:
-  schedule: # executa automaticamente todo dia
-    - cron: "0 0 * * *"
+  schedule:
+    - cron: "0 0 * * *" # roda todo dia à meia-noite
   workflow_dispatch: # permite rodar manualmente
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -11,14 +14,16 @@ jobs:
     steps:
       - name: Checkout do repositório
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Gera o gráfico da cobrinha
         uses: Platane/snk@v3
         with:
-          github_user_name: suxi404 # 👉 troque pelo seu usuário
-          outputs: dist/github-contribution-grid-snake.svg
+          github_user_name: "Cadu-f12" 
+          outputs: "dist/github-contribution-grid-snake.svg"
 
-      - name: Publica no branch de saída
+      - name: Publica no branch output
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
