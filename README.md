@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Carlos eduardo, Cadu!
 
-<!--
-**Cadu-f12/Cadu-f12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Apaixonado por tecnologia e desenvolvimento de software.  
+🎓 Atualmente curso **Análise e Desenvolvimento de Sistemas** no **Senai Florianópolis**.  
+🚀 Busco evoluir na área de **Desenvolvimento Back-end Java** e **Banco de Dados**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias e Ferramentas
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📚 O que estou aprendendo agora
+- Java Avançado e Estruturas de Dados  
+- SQL e Modelagem de Banco de Dados  
+- Desenvolvimento Web com Spring boot
+
+---
+
+### 📈 Estatísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cadu-f12&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cadu-f12&layout=compact&theme=tokyonight)
+
+---
+
+<p align="center">
+  <img src="https://github.com/Cadu-f12/Cadu-f12/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+</p>
+
+---
+
+### 📫 Contato
+✉️ [Email](mailto:cadudaiha68@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/seulinkedin)  
+🐙 [GitHub](https://github.com/Cadu-f12)
