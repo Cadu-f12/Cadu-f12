@@ -26,9 +26,7 @@
 
 ---
 
-<picture>
-  <img src="https://raw.githubusercontent.com/Cadu-f12/Cadu-f12/output/github-contribution-grid-snake-dark.svg" alt="Snake animation dark" />
-</picture>
+<img alt="github-snake" src="https://raw.githubusercontent.com/Cadu-f12/Cadu-f12/output/github-contribution-grid-snake-dark.svg" />
 
 ---
 
