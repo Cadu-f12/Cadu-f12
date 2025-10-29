@@ -17,11 +17,16 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Gera o gráfico da cobrinha
+      - name: Gera o gráfico da cobrinha (tema dark)
         uses: Platane/snk@v3
         with:
-          github_user_name: "Cadu-f12" 
-          outputs: "dist/github-contribution-grid-snake.svg"
+          github_user_name: "Cadu-f12"
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg
+          # 🎨 Configuração do tema dark
+          color_snake: "#39FF14"        # cor da cobrinha (verde neon)
+          color_dots: "#1b1f23 #39FF14 #58a6ff #f78166 #8e44ad" # cores dos pontos
 
       - name: Publica no branch output
         uses: crazy-max/ghaction-github-pages@v4
