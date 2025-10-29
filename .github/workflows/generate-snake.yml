@@ -2,34 +2,30 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # roda todo dia à meia-noite
-  workflow_dispatch: # permite rodar manualmente
-
-permissions:
-  contents: write
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    steps:
-      - name: Checkout do repositório
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
-      - name: Gera o gráfico da cobrinha (tema dark)
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
-          github_user_name: "Cadu-f12"
+          github_user_name: Cadu-f12
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg
-          # 🎨 Configuração do tema dark
-          color_snake: "#39FF14"        # cor da cobrinha (verde neon)
-          color_dots: "#1b1f23 #39FF14 #58a6ff #f78166 #8e44ad" # cores dos pontos
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Publica no branch output
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
