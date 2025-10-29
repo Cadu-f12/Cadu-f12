@@ -15,7 +15,7 @@ jobs:
       - name: Gera o gráfico da cobrinha
         uses: Platane/snk@v3
         with:
-          github_user_name: suxi404 # 👉 troque pelo seu usuário
+          github_user_name: Cadu-f12 
           outputs: dist/github-contribution-grid-snake.svg
 
       - name: Publica no branch de saída
@@ -25,3 +25,4 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
