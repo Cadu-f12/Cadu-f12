@@ -28,7 +28,7 @@
 ### 📚 O que estou aprendendo agora
 - Java Avançado e Estruturas de Dados  
 - SQL e Modelagem de Banco de Dados  
-- Desenvolvimento Web com Spring boot
+- Arquitetura de software, princípios SOLID
 
 ---
 
