@@ -1,8 +1,8 @@
-# 👋 Olá! Eu sou o Carlos eduardo, Cadu!
+<div align="center">
 
-💡 Apaixonado por tecnologia e desenvolvimento de software.  
-🎓 Atualmente curso **Análise e Desenvolvimento de Sistemas** no **Senai Florianópolis**.  
-🚀 Busco evoluir na área de **Desenvolvimento Back-end Java** e **Banco de Dados**.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=FF8C00&center=true&vCenter=true&width=550&lines=Olá%2C+me+chamo+Carlos!;Estudo+Desenvolvimento+no+Senai;Sou+Desenvolvedor+Back-end;Bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
@@ -33,12 +33,18 @@
 ---
 
 ### 📈 Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cadu-f12&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cadu-f12&layout=compact&theme=tokyonight)
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Cadu-f12&theme=dark)
+
+</div>
 
 ---
 
-### 📫 Contato
-✉️ [Email](mailto:cadudaiha68@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/seulinkedin)  
+### 📫 Contatos
+✉️ [Email](mailto:cadudaiha68@gmail.com)
+
+💼 [LinkedIn](https://www.linkedin.com/in/carlos-eduardo-clemente-86b011353/)
+
 🐙 [GitHub](https://github.com/Cadu-f12)
