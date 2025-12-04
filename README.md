@@ -4,9 +4,11 @@
 
 </div>
 
----
+<div align="center">
 
 ### 🛠️ Tecnologias e Ferramentas
+
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-FF8C00?style=for-the-badge&logo=openjdk&logoColor=black" />
