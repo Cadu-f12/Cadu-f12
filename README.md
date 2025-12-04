@@ -9,19 +9,18 @@
 ### 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="70" height="70"/>
-  &nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="70" height="70"/>
-  &nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Git" width="70" height="70"/>
-  &nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" width="70" height="70"/>
-  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Java-FF8C00?style=for-the-badge&logo=openjdk&logoColor=black" />
+  &nbsp;&nbsp;
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Spring%20Boot-FF8C00?style=for-the-badge&logo=springboot&logoColor=black" />
+  &nbsp;&nbsp;
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/MySQL-FF8C00?style=for-the-badge&logo=mysql&logoColor=black" />
+  &nbsp;&nbsp;
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Linux-FF8C00?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
+
 
 ---
 
@@ -29,6 +28,8 @@
 - Java Avançado e Estruturas de Dados  
 - SQL e Modelagem de Banco de Dados  
 - Arquitetura de software, princípios SOLID
+
+
 
 ---
 
