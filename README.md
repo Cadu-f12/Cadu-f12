@@ -39,7 +39,7 @@
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Cadu-f12&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Cadu-f12&theme=dark)
 
 </div>
 
