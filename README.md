@@ -21,17 +21,22 @@
   &nbsp;&nbsp;
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Linux-FF8C00?style=for-the-badge&logo=linux&logoColor=black" />
+  &nbsp;&nbsp;
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-FF8C00?style=for-the-badge&logo=javascript&logoColor=black" />
+  &nbsp;&nbsp;
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/HTML5-FF8C00?style=for-the-badge&logo=html5&logoColor=black" />
 </p>
 
 
 ---
 
 ### 📚 O que estou aprendendo agora
-- Java Avançado e Estruturas de Dados  
+- Java Avançado, Estruturas de Dados, Java Script e HTML
 - SQL e Modelagem de Banco de Dados  
 - Arquitetura de software, princípios SOLID
-
-
+- Git e Github
 
 ---
 
