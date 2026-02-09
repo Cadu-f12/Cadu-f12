@@ -46,6 +46,9 @@
 
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Cadu-f12&theme=dark)
 
+<!--COLOCAR LINGUAGENS MAIS USADAS AQUI!!!!!-->
+<img height="180em" src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=Cadu-f12&layout=compact&langs_count=10&theme=radical&title_color=FF8C00&icon_color=FF8C00&hide_border=true&bg_color=0d1117&include_all_commits=true" />
+
 </div>
 
 ---
