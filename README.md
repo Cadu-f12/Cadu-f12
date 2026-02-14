@@ -33,7 +33,7 @@
 ---
 
 ### 📚 O que estou aprendendo agora
-- Java Avançado, Estruturas de Dados, Java Script e HTML
+- JavaScript, HTML, CSS, Java, Estrtura de dados
 - SQL e Modelagem de Banco de Dados  
 - Arquitetura de software, princípios SOLID
 - Git e Github
