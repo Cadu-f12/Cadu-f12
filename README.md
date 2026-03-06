@@ -11,22 +11,31 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-FF8C00?style=for-the-badge&logo=openjdk&logoColor=black" />
-  &nbsp;&nbsp;
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Spring%20Boot-FF8C00?style=for-the-badge&logo=springboot&logoColor=black" />
-  &nbsp;&nbsp;
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/MySQL-FF8C00?style=for-the-badge&logo=mysql&logoColor=black" />
-  &nbsp;&nbsp;
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Linux-FF8C00?style=for-the-badge&logo=linux&logoColor=black" />
-  &nbsp;&nbsp;
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-FF8C00?style=for-the-badge&logo=javascript&logoColor=black" />
-  &nbsp;&nbsp;
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/HTML5-FF8C00?style=for-the-badge&logo=html5&logoColor=black" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" width="45" alt="Java" />
+  &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" width="45" alt="Spring Boot" />
+  &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" width="45" alt="MySQL" />
+  &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" width="45" alt="Linux" />
+  &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" width="45" alt="JavaScript" />
+  &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" width="45" alt="HTML5" />
+  &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" width="45" alt="CSS3" />
+  &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="45" width="45" alt="Bootstrap" />
+  &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-original.svg" height="45" width="45" alt="Jasmine" />
 </p>
 
 
@@ -45,9 +54,6 @@
 <div align="center">
 
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Cadu-f12&theme=dark)
-
-<!--COLOCAR LINGUAGENS MAIS USADAS AQUI!!!!!-->
-<img height="180em" src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=Cadu-f12&layout=compact&langs_count=10&theme=radical&title_color=FF8C00&icon_color=FF8C00&hide_border=true&bg_color=0d1117&include_all_commits=true" />
 
 </div>
 
