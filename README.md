@@ -38,9 +38,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-original.svg" height="45" width="45" alt="Jasmine" />
 </p>
 
-
----
-
 <div align="center">
 
 # 📈 Estatísticas
