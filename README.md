@@ -41,21 +41,26 @@
 
 ---
 
-### 📚 O que estou aprendendo agora
-- JavaScript, HTML, CSS, Java, Estrtura de dados
-- SQL e Modelagem de Banco de Dados  
-- Arquitetura de software, princípios SOLID
-- Git e Github
-
----
-
-### 📈 Estatísticas
-
 <div align="center">
+
+# 📈 Estatísticas
 
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Cadu-f12&theme=dark)
 
 </div>
+
+
+
+---
+
+  ### 📚 O que estou aprendendo agora
+
+- JavaScript, HTML, CSS, Java, Estrtura de dados
+- SQL e Modelagem de Banco de Dados  
+- Arquitetura de software, princípios SOLID
+- Git e Github
+ 
+
 
 ---
 
