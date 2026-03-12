@@ -43,7 +43,7 @@
 # 📈 Estatísticas
 
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Cadu-f12&theme=dark)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cadu-f12&layout=compact&hide_border=false&title_color=FF8C00&text_color=FFFF&bg_color=151515" />
 
 </div>
