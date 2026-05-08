@@ -39,12 +39,10 @@
 
   ### 📚 O que estou aprendendo agora
 
-- JavaScript, HTML, CSS, Java, Estrtura de dados
-- SQL e Modelagem de Banco de Dados  
-- Arquitetura de software, princípios SOLID
-- Git e Github
- 
-
+- Python avançado, APIs, Estrutura de dados
+- Modelagem de sistemas  
+- Docker
+- Rest APIs
 
 ---
 
