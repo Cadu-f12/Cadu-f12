@@ -6,7 +6,7 @@
 
 <div align="center">
 
-### 🛠️ Tecnologias e Ferramentas
+# 🛠️ Tecnologias e Ferramentas
 
 <table>
   <tr>
