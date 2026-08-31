@@ -6,7 +6,7 @@
 
 <div align="center">
 
-# 🛠️ Tecnologias e Ferramentas
+  # 🛠️ Tecnologias e Ferramentas
 
 <table>
   <tr>
@@ -35,28 +35,28 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" height="45" width="45" alt="C" />
     </td>
     <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" width="45" alt="Java" />
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" width="45" alt="Spring Framework" />
+    </td>
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" width="45" alt="Node.js" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="45" width="45" alt="Dart" />
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="45" width="45" alt="Flutter" />
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" width="45" alt="React" />
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" width="45" alt="Git" />
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-       <img src="https://cdn.simpleicons.org/github/white" height="45" width="45" alt="GitHub" />
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" width="45" alt="HTML5" />
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" width="45" alt="CSS3" />
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" width="45" alt="JavaScript" />
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" width="45" alt="Linux" />
@@ -74,29 +74,27 @@
 
 </div>
 
-
-
 ---
 
-  ### 📚 O que estou aprendendo agora
+  ### 📚 O que eu estou aprendendo na faculdade e trabalho atualmente:
 
-• Python e Django
+* 🌐 Desenvolvimento Web:
+  * Spring Boot;
+  * Spring Security;
+  * Spring Framework;
+  * Spring Cloud;
+  * Django Framework;
+  * Django REST Framework;
 
-• Docker e containers
+* 📡 Sistemas distribuídos:
+  * Docker;
+  * RabbitMQ;
+  * Apache Tomcat;
+  * Apache Hadoop.
 
-• Arquitetura de microsserviços
-
-• RabbitMQ e sistemas de mensageria
-
-• PostgreSQL
-
-• Estruturas de Dados em C
-
-• Node.js e React
-
-• Modelagem de sistemas com UML 2.0
-
-• Git e GitHub
+* 📱 Desenvolvimento mobile:
+  * Flutter Framework;
+  * Dart.
 
 ---
 
